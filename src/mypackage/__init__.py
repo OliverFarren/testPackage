@@ -1,1 +1,1 @@
-from mymodules import *
+from .mymodules import *

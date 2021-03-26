@@ -2,7 +2,9 @@
 
 This project is a minimum viable package to understand and test how to build a local package and import into a project.
 
-Currently I am unable to locally use the package as intended.
+Used in StackOverflow post [here](https://stackoverflow.com/questions/66805833/unable-to-use-locally-built-python-package-in-development-mode)
+
+Wasn't able to build and use package locally. These issues have now been resolved.
 
 Intended result:
 
